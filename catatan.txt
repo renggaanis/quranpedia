@@ -1,0 +1,2 @@
+index.php awal nama file adalah server.php, diganti menjadi index.php karena agar pada saat meload di browser bisa lewat localhost, todak perlu menggunakan termial php artisan serve
+selain itu .htaccess dari folder public dicopy, dipindah difolder ini
